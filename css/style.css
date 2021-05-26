@@ -164,7 +164,7 @@ and (max-device-width : 736px) { }
 	padding-top: 10vh;
 }
 #home{
-	background-image: (../images/home2.jpg);
+	background-image: none;
 	
 	padding-top: 65px;
 }
