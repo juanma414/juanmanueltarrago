@@ -37,7 +37,7 @@ header{
 .principal{
 	background: red;
 	height: 120vh;
-	background: url(../images/rear-view-of-programmer-working-all-night-long.jpg)no-repeat center center fixed; 
+	background: url(../images/home1.jpg)no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -133,12 +133,12 @@ footer h1{
 }
 
 
-/*@media only screen 
+@media only screen 
 and (min-device-width : 414px) 
 and (max-device-width : 736px) { }
-@media only screen and (min-width: 324px) and (max-width: 736px) {*/
-@media only screen and (max-device-width: 480px), only screen and (min-device-width: 560px) and (max-device-width: 1136px) {
-  /* iPhone only */
+@media only screen and (min-width: 324px) and (max-width: 736px) {
+/*@media only screen and (max-device-width: 480px), only screen and (min-device-width: 560px) and (max-device-width: 1136px) {
+   iPhone only */
   /* Styles */
   .off {
     display: none !important;
@@ -159,7 +159,7 @@ and (max-device-width : 736px) { }
 
 }
 .nosotros{
-		height:75vh;
+		height:60vh;
 	overflow: hidden;
 	padding-top: 10vh;
 }
@@ -175,7 +175,7 @@ h1{
 
 footer{
 	padding-top: 5vh;
-	height: 50vh;
+	height: 40vh;
 }
 
 }
