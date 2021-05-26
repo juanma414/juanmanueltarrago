@@ -37,7 +37,7 @@ header{
 .principal{
 	background: red;
 	height: 120vh;
-	background: url(../images/rear-view-of-programmer-working-all-night-long.jpg); 
+	background: url(../images/rear-view-of-programmer-working-all-night-long.jpg)no-repeat center center; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
