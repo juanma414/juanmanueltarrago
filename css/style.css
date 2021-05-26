@@ -156,9 +156,9 @@ and (max-device-width : 736px) { }
     font-size: 13px;
 }
 .nosotros{
-		height:50vh;
+		height:70vh;
 	overflow: hidden;
-	padding-top: 15px;
+	padding-top: 15vh;
 }
 #home{
 	padding-top: 65px;
@@ -169,8 +169,8 @@ h1{
 }
 
 footer{
-	padding-top: 10px;
-	height: 30vh;
+	padding-top: 5vh;
+	height: 45vh;
 }
 
 }
