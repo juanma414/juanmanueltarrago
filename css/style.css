@@ -155,7 +155,7 @@ and (max-device-width : 736px) { }
   .botonera li a {
     font-size: 13px;
 }
-.principal{
+#home{;
 
 }
 .nosotros{
@@ -164,6 +164,8 @@ and (max-device-width : 736px) { }
 	padding-top: 10vh;
 }
 #home{
+	background-image: (../images/home2.jpg);
+	
 	padding-top: 65px;
 }
 
